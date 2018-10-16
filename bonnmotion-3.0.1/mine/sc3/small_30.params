@@ -1,0 +1,9 @@
+model=SimpleMineArea
+ignore=2000.0
+randomSeed=1473893262346
+x=200.0
+y=150.0
+duration=10000.0
+nn=50
+circular=false
+J=2D

@@ -1,0 +1,17 @@
+# relative mobility = 0.0
+# average node speed = 0.0
+# average degree of temporal dependence = NaN
+
+"tx range"                              50.0                          
+"avg. degree of spatial dependence"     NaN                           
+"avg. degree"                           3.0                           
+"avg. num. of partitions"               5.0                           
+"partitioning degree"                   0.8421052631578947            
+"avg. time to link break"               NaN                           
+"std. deviation of time to link break"  -0.0                          
+"link breaks"                           0                             
+"avg. link duration"                    10000.0                       
+"total links"                           30                            
+"avg. relative speed"                   NaN                           
+"avg. path availability"                1.0                           
+"avg. number of link changes"           1.0                           

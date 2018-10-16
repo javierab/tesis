@@ -1,0 +1,17 @@
+# relative mobility = 1.6728953645285923E-9
+# average node speed = 1.8598705752421218
+# average degree of temporal dependence = 0.006392147616654742
+
+"tx range"                              50.0                          
+"avg. degree of spatial dependence"     2.0213582380366105E-4         
+"avg. degree"                           6.4677803604061435            
+"avg. num. of partitions"               21.365296113310205            
+"partitioning degree"                   0.7350052155340511            
+"avg. time to link break"               38.18022936766266             
+"std. deviation of time to link break"  32.34582403700556             
+"link breaks"                           84101                         
+"avg. link duration"                    38.17556374264348             
+"total links"                           84711                         
+"avg. relative speed"                   38.5693745442634              
+"avg. path availability"                0.30126876047460993           
+"avg. number of link changes"           20.33389342294767             
