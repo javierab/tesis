@@ -1,0 +1,212 @@
+Map all stats for scenario javi_large_100_beta0
+sim_time: 3000.0000
+Stats time 100.0
+--Map size: 68 of 116
+--Node % coverage 58.62068965517241
+--NodesUnder200mError: 16 - %: 23.529411764705884
+--AvgDistError: 437.0608
+--MedianDistError: 403.8663
+--VarianceDistError: 54649.0235
+Stats time 200.0
+--Map size: 101 of 116
+--Node % coverage 87.06896551724138
+--NodesUnder200mError: 16 - %: 15.841584158415841
+--AvgDistError: 455.6633
+--MedianDistError: 403.8663
+--VarianceDistError: 58057.0123
+Stats time 300.0
+--Map size: 106 of 116
+--Node % coverage 91.37931034482759
+--NodesUnder200mError: 19 - %: 17.92452830188679
+--AvgDistError: 446.4772
+--MedianDistError: 403.8663
+--VarianceDistError: 55184.9877
+Stats time 400.0
+--Map size: 109 of 116
+--Node % coverage 93.96551724137932
+--NodesUnder200mError: 23 - %: 21.10091743119266
+--AvgDistError: 444.8765
+--MedianDistError: 403.8663
+--VarianceDistError: 56236.9068
+Stats time 500.0
+--Map size: 110 of 116
+--Node % coverage 94.82758620689656
+--NodesUnder200mError: 24 - %: 21.818181818181817
+--AvgDistError: 444.8643
+--MedianDistError: 403.8663
+--VarianceDistError: 56208.2699
+Stats time 600.0
+--Map size: 110 of 116
+--Node % coverage 94.82758620689656
+--NodesUnder200mError: 24 - %: 21.818181818181817
+--AvgDistError: 441.0634
+--MedianDistError: 403.8663
+--VarianceDistError: 54520.0770
+Stats time 700.0
+--Map size: 111 of 116
+--Node % coverage 95.6896551724138
+--NodesUnder200mError: 22 - %: 19.81981981981982
+--AvgDistError: 442.0052
+--MedianDistError: 403.8663
+--VarianceDistError: 53886.6993
+Stats time 800.0
+--Map size: 111 of 116
+--Node % coverage 95.6896551724138
+--NodesUnder200mError: 22 - %: 19.81981981981982
+--AvgDistError: 438.8170
+--MedianDistError: 403.8663
+--VarianceDistError: 54236.8415
+Stats time 900.0
+--Map size: 112 of 116
+--Node % coverage 96.55172413793103
+--NodesUnder200mError: 25 - %: 22.321428571428573
+--AvgDistError: 434.6098
+--MedianDistError: 403.8663
+--VarianceDistError: 54541.8647
+Stats time 1000.0
+--Map size: 112 of 116
+--Node % coverage 96.55172413793103
+--NodesUnder200mError: 26 - %: 23.214285714285715
+--AvgDistError: 436.0581
+--MedianDistError: 403.8663
+--VarianceDistError: 52849.9604
+Stats time 1100.0
+--Map size: 112 of 116
+--Node % coverage 96.55172413793103
+--NodesUnder200mError: 23 - %: 20.535714285714285
+--AvgDistError: 430.5454
+--MedianDistError: 403.8663
+--VarianceDistError: 48343.0728
+Stats time 1200.0
+--Map size: 112 of 116
+--Node % coverage 96.55172413793103
+--NodesUnder200mError: 23 - %: 20.535714285714285
+--AvgDistError: 429.6856
+--MedianDistError: 403.8663
+--VarianceDistError: 48878.8672
+Stats time 1300.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 23 - %: 20.17543859649123
+--AvgDistError: 437.5754
+--MedianDistError: 403.8663
+--VarianceDistError: 50725.7867
+Stats time 1400.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 22 - %: 19.29824561403509
+--AvgDistError: 435.8954
+--MedianDistError: 403.8663
+--VarianceDistError: 50320.4459
+Stats time 1500.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 19 - %: 16.666666666666668
+--AvgDistError: 436.9077
+--MedianDistError: 403.8663
+--VarianceDistError: 47237.2801
+Stats time 1600.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 19 - %: 16.666666666666668
+--AvgDistError: 436.2764
+--MedianDistError: 403.8663
+--VarianceDistError: 46538.6091
+Stats time 1700.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 21 - %: 18.42105263157895
+--AvgDistError: 440.2340
+--MedianDistError: 403.8663
+--VarianceDistError: 50963.2148
+Stats time 1800.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 20 - %: 17.54385964912281
+--AvgDistError: 441.6837
+--MedianDistError: 403.8663
+--VarianceDistError: 50555.9777
+Stats time 1900.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 22 - %: 19.29824561403509
+--AvgDistError: 439.3375
+--MedianDistError: 403.8663
+--VarianceDistError: 51333.3671
+Stats time 2000.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 20 - %: 17.54385964912281
+--AvgDistError: 439.2646
+--MedianDistError: 403.8663
+--VarianceDistError: 53771.5887
+Stats time 2100.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 21 - %: 18.42105263157895
+--AvgDistError: 439.6583
+--MedianDistError: 403.8663
+--VarianceDistError: 49906.7952
+Stats time 2200.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 18 - %: 15.789473684210526
+--AvgDistError: 438.2942
+--MedianDistError: 403.8663
+--VarianceDistError: 46630.9577
+Stats time 2300.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 22 - %: 19.29824561403509
+--AvgDistError: 435.5169
+--MedianDistError: 403.8663
+--VarianceDistError: 49025.3829
+Stats time 2400.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 24 - %: 21.05263157894737
+--AvgDistError: 430.3746
+--MedianDistError: 403.8663
+--VarianceDistError: 48750.9963
+Stats time 2500.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 23 - %: 20.17543859649123
+--AvgDistError: 429.4778
+--MedianDistError: 403.8663
+--VarianceDistError: 48914.5362
+Stats time 2600.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 24 - %: 21.05263157894737
+--AvgDistError: 430.6090
+--MedianDistError: 403.8663
+--VarianceDistError: 47258.9078
+Stats time 2700.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 26 - %: 22.80701754385965
+--AvgDistError: 429.1870
+--MedianDistError: 403.8663
+--VarianceDistError: 46266.8698
+Stats time 2800.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 30 - %: 26.31578947368421
+--AvgDistError: 423.8671
+--MedianDistError: 403.8663
+--VarianceDistError: 47499.7022
+Stats time 2900.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 32 - %: 28.07017543859649
+--AvgDistError: 417.9160
+--MedianDistError: 403.8663
+--VarianceDistError: 50004.0641
+Stats time 3000.0
+--Map size: 114 of 116
+--Node % coverage 98.27586206896552
+--NodesUnder200mError: 34 - %: 29.82456140350877
+--AvgDistError: 412.3757
+--MedianDistError: 403.8663
+--VarianceDistError: 52704.8253

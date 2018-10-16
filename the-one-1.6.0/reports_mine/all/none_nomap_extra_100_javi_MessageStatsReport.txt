@@ -1,0 +1,20 @@
+Message stats for scenario none_nomap_extra_100_javi
+sim_time: 10000.0000
+created: 166
+started: 78121
+relayed: 78096
+aborted: 22
+dropped: 73355
+removed: 4405
+delivered: 112
+delivery_prob: 0.6747
+response_prob: 0.0000
+overhead_ratio: 696.2857
+latency_avg: 761.9018
+latency_med: 541.0000
+hopcount_avg: 5.1875
+hopcount_med: 4
+buffertime_avg: 40.1543
+buffertime_med: 3.0000
+rtt_avg: NaN
+rtt_med: NaN

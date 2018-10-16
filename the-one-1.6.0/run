@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for PROT in "maxprop sprayandwait epidemic prophet" 
+do
+	
+	echo "$PROT_asd"
+	./one.sh "config/$PROT_asd"
+done

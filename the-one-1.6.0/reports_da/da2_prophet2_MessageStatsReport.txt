@@ -1,0 +1,20 @@
+Message stats for scenario da2_prophet2
+sim_time: 10000.0000
+created: 1411
+started: 97775
+relayed: 93934
+aborted: 3823
+dropped: 91229
+removed: 0
+delivered: 620
+delivery_prob: 0.4394
+response_prob: 0.0000
+overhead_ratio: 150.5065
+latency_avg: 299.5081
+latency_med: 205.0000
+hopcount_avg: 2.2016
+hopcount_med: 2
+buffertime_avg: 333.3860
+buffertime_med: 285.0000
+rtt_avg: NaN
+rtt_med: NaN

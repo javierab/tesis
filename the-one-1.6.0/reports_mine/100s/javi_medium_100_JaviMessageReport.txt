@@ -1,0 +1,6 @@
+JaviMessage stats for scenario javi_medium_100
+sim_time: 10000.0000
+created: 92.0
+match %: 0.8152173913043478
+nomatch %: 0.17391304347826086
+noinfo %: 0.010869565217391304

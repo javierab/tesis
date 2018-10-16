@@ -1,0 +1,20 @@
+Message stats for scenario extra_30_sc2
+sim_time: 10000.0000
+created: 166
+started: 5609
+relayed: 5607
+aborted: 1
+dropped: 4833
+removed: 696
+delivered: 85
+delivery_prob: 0.5120
+response_prob: 0.0000
+overhead_ratio: 64.9647
+latency_avg: 1113.8941
+latency_med: 872.0000
+hopcount_avg: 2.6471
+hopcount_med: 2
+buffertime_avg: 238.4107
+buffertime_med: 51.0000
+rtt_avg: NaN
+rtt_med: NaN

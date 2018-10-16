@@ -1,0 +1,125 @@
+Message stats for scenario saw_extra_100_20s
+sim_time: 10000.0000
+created: 500
+started: 3709
+relayed: 3700
+aborted: 8
+dropped: 3934
+removed: 0
+delivered: 154
+delivery_prob: 0.3080
+response_prob: 0.0000
+overhead_ratio: 23.0260
+latency_avg: 253.2922
+latency_med: 182.0000
+hopcount_avg: 1.7792
+hopcount_med: 2
+buffertime_avg: 271.6871
+buffertime_med: 179.0000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario saw_extra_100_20s
+sim_time: 10000.0000
+created: 500
+started: 0
+relayed: 0
+aborted: 0
+dropped: 0
+removed: 0
+delivered: 0
+delivery_prob: 0.0000
+response_prob: 0.0000
+overhead_ratio: NaN
+latency_avg: NaN
+latency_med: NaN
+hopcount_avg: NaN
+hopcount_med: 0
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario saw_extra_100_20s
+sim_time: 10000.0000
+created: 500
+started: 4423
+relayed: 4414
+aborted: 8
+dropped: 4286
+removed: 0
+delivered: 275
+delivery_prob: 0.5500
+response_prob: 0.0000
+overhead_ratio: 15.0509
+latency_avg: 444.5236
+latency_med: 309.0000
+hopcount_avg: 1.8509
+hopcount_med: 2
+buffertime_avg: 723.9981
+buffertime_med: 619.0000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario saw_extra_100_20s
+sim_time: 10000.0000
+created: 500
+started: 261
+relayed: 261
+aborted: 0
+dropped: 265
+removed: 0
+delivered: 261
+delivery_prob: 0.5220
+response_prob: 0.0000
+overhead_ratio: 0.0000
+latency_avg: 1377.8391
+latency_med: 934.0000
+hopcount_avg: 1.0000
+hopcount_med: 1
+buffertime_avg: 4297.2906
+buffertime_med: 4420.0000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario saw_extra_100_20s
+sim_time: 10000.0000
+created: 500
+started: 268
+relayed: 268
+aborted: 0
+dropped: 221
+removed: 0
+delivered: 268
+delivery_prob: 0.5360
+response_prob: 0.0000
+overhead_ratio: 0.0000
+latency_avg: 1525.5784
+latency_med: 985.0000
+hopcount_avg: 1.0000
+hopcount_med: 1
+buffertime_avg: 4167.7738
+buffertime_med: 3940.0000
+rtt_avg: NaN
+rtt_med: NaN
+
+Message stats for scenario saw_extra_100_20s
+sim_time: 10000.0000
+created: 500
+started: 4447
+relayed: 4436
+aborted: 10
+dropped: 4314
+removed: 0
+delivered: 265
+delivery_prob: 0.5300
+response_prob: 0.0000
+overhead_ratio: 15.7396
+latency_avg: 398.2189
+latency_med: 275.0000
+hopcount_avg: 2.7472
+hopcount_med: 3
+buffertime_avg: 723.6664
+buffertime_med: 636.0000
+rtt_avg: NaN
+rtt_med: NaN

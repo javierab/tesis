@@ -1,0 +1,6 @@
+JaviMessage stats for scenario javi_large_100_beta05_kappa05
+sim_time: 3000.0000
+created: 670.0
+match %: 0.8044776119402985
+nomatch %: 0.11044776119402985
+noinfo %: 0.08507462686567165

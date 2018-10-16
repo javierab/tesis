@@ -1,0 +1,20 @@
+Message stats for scenario da2_epidemic2
+sim_time: 10000.0000
+created: 1411
+started: 101370
+relayed: 97945
+aborted: 3405
+dropped: 95248
+removed: 0
+delivered: 655
+delivery_prob: 0.4642
+response_prob: 0.0000
+overhead_ratio: 148.5344
+latency_avg: 616.9756
+latency_med: 329.0000
+hopcount_avg: 3.6061
+hopcount_med: 2
+buffertime_avg: 331.1877
+buffertime_med: 286.0000
+rtt_avg: NaN
+rtt_med: NaN

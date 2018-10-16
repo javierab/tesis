@@ -1,0 +1,20 @@
+Message stats for scenario javi_medium_30
+sim_time: 2000.0000
+created: 996
+started: 55109
+relayed: 55062
+aborted: 45
+dropped: 53449
+removed: 1983
+delivered: 249
+delivery_prob: 0.2500
+response_prob: 0.0000
+overhead_ratio: 220.1325
+latency_avg: 47.5020
+latency_med: 3.0000
+hopcount_avg: 1.8153
+hopcount_med: 1
+buffertime_avg: 5.8155
+buffertime_med: 0.0000
+rtt_avg: NaN
+rtt_med: NaN

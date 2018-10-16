@@ -1,0 +1,20 @@
+Message stats for scenario kappa_extra_100_javi
+sim_time: 10000.0000
+created: 166
+started: 74911
+relayed: 74884
+aborted: 22
+dropped: 70451
+removed: 4104
+delivered: 103
+delivery_prob: 0.6205
+response_prob: 0.0000
+overhead_ratio: 726.0291
+latency_avg: 697.8641
+latency_med: 534.0000
+hopcount_avg: 5.1068
+hopcount_med: 4
+buffertime_avg: 41.4639
+buffertime_med: 3.0000
+rtt_avg: NaN
+rtt_med: NaN

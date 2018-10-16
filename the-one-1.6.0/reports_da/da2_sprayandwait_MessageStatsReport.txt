@@ -1,0 +1,20 @@
+Message stats for scenario da2_sprayandwait
+sim_time: 10000.0000
+created: 1411
+started: 7696
+relayed: 7646
+aborted: 49
+dropped: 4678
+removed: 0
+delivered: 903
+delivery_prob: 0.6400
+response_prob: 0.0000
+overhead_ratio: 7.4673
+latency_avg: 306.1517
+latency_med: 152.0000
+hopcount_avg: 2.3787
+hopcount_med: 2
+buffertime_avg: 4164.1263
+buffertime_med: 4060.0000
+rtt_avg: NaN
+rtt_med: NaN

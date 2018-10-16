@@ -1,0 +1,59 @@
+Map stats for scenario javi_large_100
+sim_time: 2000.0000
+nPeaks: 10
+peakInterval:200.0
+
+
+Time:0.0 - 200.0
+--AvgDistError: 500.1021
+--MedianDistError: 371.2221
+--VarianceDistError: 44859.7579
+--avgSize: 36.3892
+
+Time:200.0 - 400.0
+--AvgDistError: 454.9986
+--MedianDistError: 356.3567
+--VarianceDistError: 36033.1498
+--avgSize: 57.5739
+
+Time:400.0 - 600.0
+--AvgDistError: 477.8957
+--MedianDistError: 410.7397
+--VarianceDistError: 31219.4521
+--avgSize: 64.1982
+
+Time:600.0 - 800.0
+--AvgDistError: 507.8151
+--MedianDistError: 451.7377
+--VarianceDistError: 33141.4130
+--avgSize: 63.6932
+
+Time:800.0 - 1000.0
+--AvgDistError: 515.3225
+--MedianDistError: 491.4017
+--VarianceDistError: 32300.6735
+--avgSize: 66.1390
+
+Time:1000.0 - 1200.0
+--AvgDistError: 459.8295
+--MedianDistError: 437.4286
+--VarianceDistError: 29033.8139
+--avgSize: 71.9558
+
+Time:1200.0 - 1400.0
+--AvgDistError: 510.2115
+--MedianDistError: 461.1959
+--VarianceDistError: 40535.2722
+--avgSize: 67.3713
+
+Time:1400.0 - 1600.0
+--AvgDistError: 511.1239
+--MedianDistError: 481.2700
+--VarianceDistError: 31972.8797
+--avgSize: 69.2862
+
+Time:1600.0 - 1800.0
+--AvgDistError: 513.1707
+--MedianDistError: 475.5772
+--VarianceDistError: 36688.7893
+--avgSize: 65.2662

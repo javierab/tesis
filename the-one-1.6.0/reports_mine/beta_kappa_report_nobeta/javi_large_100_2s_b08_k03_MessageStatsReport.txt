@@ -1,0 +1,20 @@
+Message stats for scenario javi_large_100_2s_b08_k03
+sim_time: 3000.0000
+created: 1496
+started: 79750
+relayed: 78785
+aborted: 931
+dropped: 61021
+removed: 18437
+delivered: 430
+delivery_prob: 0.2874
+response_prob: 0.0000
+overhead_ratio: 182.2209
+latency_avg: 67.7233
+latency_med: 20.0000
+hopcount_avg: 3.5186
+hopcount_med: 3
+buffertime_avg: 10.7991
+buffertime_med: 2.0000
+rtt_avg: NaN
+rtt_med: NaN

@@ -1,0 +1,20 @@
+Message stats for scenario da2_maxprop2
+sim_time: 10000.0000
+created: 1411
+started: 70495
+relayed: 67730
+aborted: 2752
+dropped: 1
+removed: 65975
+delivered: 1366
+delivery_prob: 0.9681
+response_prob: 0.0000
+overhead_ratio: 48.5827
+latency_avg: 269.1442
+latency_med: 217.0000
+hopcount_avg: 4.3719
+hopcount_med: 4
+buffertime_avg: 236.3149
+buffertime_med: 136.0000
+rtt_avg: NaN
+rtt_med: NaN

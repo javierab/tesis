@@ -1,0 +1,20 @@
+Message stats for scenario javi_large_100_beta05_kappa05
+sim_time: 3000.0000
+created: 1496
+started: 77606
+relayed: 76662
+aborted: 917
+dropped: 69384
+removed: 7840
+delivered: 527
+delivery_prob: 0.3523
+response_prob: 0.0000
+overhead_ratio: 144.4687
+latency_avg: 216.4250
+latency_med: 51.0000
+hopcount_avg: 2.8292
+hopcount_med: 2
+buffertime_avg: 10.5605
+buffertime_med: 1.0000
+rtt_avg: NaN
+rtt_med: NaN

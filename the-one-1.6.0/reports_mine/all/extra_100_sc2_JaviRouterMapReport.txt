@@ -1,0 +1,59 @@
+Map stats for scenario extra_100_sc2
+sim_time: 10000.0000
+nPeaks: 10
+peakInterval:0.0
+
+
+Time:0.0 - 0.0
+--AvgDistError: NaN
+--MedianDistError: NaN
+--VarianceDistError: NaN
+--avgSize: NaN
+
+Time:0.0 - 0.0
+--AvgDistError: NaN
+--MedianDistError: NaN
+--VarianceDistError: NaN
+--avgSize: NaN
+
+Time:0.0 - 0.0
+--AvgDistError: NaN
+--MedianDistError: NaN
+--VarianceDistError: NaN
+--avgSize: NaN
+
+Time:0.0 - 0.0
+--AvgDistError: NaN
+--MedianDistError: NaN
+--VarianceDistError: NaN
+--avgSize: NaN
+
+Time:0.0 - 0.0
+--AvgDistError: NaN
+--MedianDistError: NaN
+--VarianceDistError: NaN
+--avgSize: NaN
+
+Time:0.0 - 0.0
+--AvgDistError: NaN
+--MedianDistError: NaN
+--VarianceDistError: NaN
+--avgSize: NaN
+
+Time:0.0 - 0.0
+--AvgDistError: NaN
+--MedianDistError: NaN
+--VarianceDistError: NaN
+--avgSize: NaN
+
+Time:0.0 - 0.0
+--AvgDistError: NaN
+--MedianDistError: NaN
+--VarianceDistError: NaN
+--avgSize: NaN
+
+Time:0.0 - 0.0
+--AvgDistError: NaN
+--MedianDistError: NaN
+--VarianceDistError: NaN
+--avgSize: NaN
